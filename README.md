@@ -6,7 +6,7 @@
 <div align = "center">
 <p align="center">
     <a href="https://blacky-dev.cf/">
-        <img src="./Banner.png" />
+        <img src="./banner.png" />
     </a>
 <p align="centre"> 
 <a href="mailto: devakabhijit@gmail.com"> <img width="30px" src="https://github.com/AkAbhijit/AkAbhijit/blob/main/icons8-email-100.png" title="Email"/> </a><br>
