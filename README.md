@@ -32,11 +32,11 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=AkAbhijit&style=flat-square)
-![status](https://dev.discordprofiles.me/badge/status/491577179495333903?style=flat-square)
-![playing](https://dev.discordprofiles.me/badge/playing/491577179495333903?style=flat-square)
-![vscode](https://dev.discordprofiles.me/badge/vscode/491577179495333903?style=flat-square)
-![intellij](https://dev.discordprofiles.me/badge/intellij/491577179495333903?style=flat-square)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/491577179495333903?style=flat-square)](https://dev.discordprofiles.me/openspotify/491577179495333903?style=flat-square)
+![status](https://dev.discordprofiles.me/badge/status/588659781930188811?style=flat-square)
+![playing](https://dev.discordprofiles.me/badge/playing/588659781930188811?style=flat-square)
+![vscode](https://dev.discordprofiles.me/badge/vscode/588659781930188811?style=flat-square)
+![intellij](https://dev.discordprofiles.me/badge/intellij/588659781930188811?style=flat-square)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/588659781930188811?style=flat-square)](https://dev.discordprofiles.me/openspotify/588659781930188811?style=flat-square)
 </div>
 
 
