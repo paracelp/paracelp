@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Web Development
 <div align = "center">
 <p align="center">
-    <a href="https://blacky-dev.cf/">
+    <a href="">
         <img src="./banner.png" />
     </a>
 <p align="centre"> 
