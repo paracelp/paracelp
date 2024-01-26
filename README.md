@@ -1,38 +1,58 @@
-
-### Hi there 👋
-
-- 🔭 I’m currently working on Advance Music Bot projects
-- 🌱 I’m currently learning Web Development
-<div align = "center">
+<h1 align="center">hey hey! 👋</h1>
 <p align="center">
-    <a href="">
-        <img src="./banner.png" />
-    </a>
-<p align="centre"> 
-<a href="mailto: devakabhijit@gmail.com"> <img width="30px" src="https://github.com/paracelp/paracelp/blob/main/icons8-email-100.png" title="Email"/> </a><br>
-</p>
+  <a href="[https://discord.gg/623552jtcz](https://discord.gg/KXKrvhQ4)">
+  <img align="center" alt="Contact paracelp" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<br />
+  <br />
 
-## 🔖 My Statistics
-&nbsp;
-<p align="center">
-    <a href="https://github.com/paracelp/">
-        <img src="https://github-readme-stats.vercel.app/api?username=paracelp&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
-    </a>
-    <a href="https://github.com/paracelp/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paracelp&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
-    </a>
-    <a href="https://github.com/zukii08/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=paracelp&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=00ff99&ring=00ff99&stroke=FFFFFFFF)](https://git.io/streak-stats" />
-    </a>
-   <a href="https://github.com/paracelp"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=paracelp&bg_color=0D1117&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true" />
-    </a>
-     <a href="https://open.spotify.com/user/31hyy6vwyhhsuqfylmt6p5ef6sfu?si=zYtFByGETPCb5TkEPY9emQ">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hyy6vwyhhsuqfylmt6p5ef6sfu&cover_image=true&theme=novatorem&bar_color=00FF99&bar_color_cover=false"/>
-    </a>
-</p>
+<img align="center" alt="Contact paracelp" src="https://discord.c99.nl/widget/theme-3/306759697812160513.png" />
 
+<div align="center">
+Hello! I'm paracelp, an aspiring 21 year old dude with love for programming and self taught knowledge about it.<br />
+
+  <br>
+
+Check out [Uivar](https://uivar.vercel.app/) a Discord music bot which has amazing features like making personal playlists, integrating music related platforms like Spotify and Last.fm, with more coming soon.
+
+  </br>
+
+The languages I use
+
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+
+
+
+The tools, editors and operating systems I use for my works
+
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 
 </div>
 
+<br />
+<br />
+<br/>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=paracelp" alt="paracelp" /> </p>
+<br>
 
-------------------------------------------  
+  <br>
+ <p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paracelp&layout=compact&langs_count=8&theme=gotham" alt="paracelp" /> </p>
+<!---
+this indexing sucks
+-->
