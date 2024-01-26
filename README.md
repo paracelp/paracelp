@@ -6,7 +6,7 @@
 <br />
   <br />
 
-<img align="center" alt="Contact paracelp" src="https://discord.c99.nl/widget/theme-3/" />
+<img align="center" alt="Contact paracelp" src="https://discord.c99.nl/widget/theme-2/503021044538408992.png" />
 
 <div align="center">
 Hello! I'm paracelp, an aspiring 21 year old dude with love for programming and self taught knowledge about it.<br />
